@@ -1,0 +1,5 @@
+*.idea
+*.zip
+*.docx
+*.DS_Store
+cmake-build-debug/
